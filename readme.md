@@ -1,1 +1,1 @@
-select now();
+echo hello py on github go
